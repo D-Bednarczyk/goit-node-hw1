@@ -1,4 +1,4 @@
-# node.js-goit-mod1
+# goit-node-hw1
 
 ![action list](./assets/1action_list.png)
 ![action get](./assets/2action_get.png)
