@@ -1,6 +1,6 @@
 # node.js-goit-mod1
 
-![Creating repo from a template step 1](./assets/1action_list.png)
-(./assets/2action_get.png)
-(./assets/3action_add.png)
-(./assets/3action_remove.png)
+![action list](./assets/1action_list.png)
+![action get](./assets/2action_get.png)
+![action add](./assets/3action_add.png)
+![action remove](./assets/3action_remove.png)
